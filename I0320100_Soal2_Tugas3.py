@@ -19,7 +19,7 @@ dict['sosmed']['IG'] = 'kiyaaraya'
 dict['makananfav'].pop(1)
 dict['makananfav'].pop(0)
 
-#print(dict['makananfav'])
+#print(*dict['makananfav'])
 
 # Menambahkan 1 hobi
 dict['hobi'].append('nyanyi')
